@@ -1,0 +1,17 @@
+{
+  "name": "RockMap",
+  "short_name": "RockMap",
+  "description": "Planificador de viajes mochileros por Asia",
+  "start_url": "/trips",
+  "display": "standalone",
+  "background_color": "#f6f2e9",
+  "theme_color": "#96462a",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 32x32 48x48 64x64 128x128 256x256",
+      "type": "image/x-icon"
+    }
+  ]
+}
